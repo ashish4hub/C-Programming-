@@ -14,4 +14,4 @@
 
 ### Array
 
-1. *Linear Search in Array* - Finds a Key element in an array using Linear search.
+1. *Linear Search in Array* - C program to Find a Key element in an array using Linear search.
