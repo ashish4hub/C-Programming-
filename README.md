@@ -1,6 +1,6 @@
 # C-Programming-
 
- This repository contains small C programs I have written while learning C programming.
+ This repository contains C programs I have written while learning C programming.
 
 ## Programs
 
