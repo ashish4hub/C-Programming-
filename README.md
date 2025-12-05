@@ -11,6 +11,6 @@
 3. *Switch statement* - Demonstrate the basic structure and use of Switch Statement in C programming.
 
 
-###Array
+### Array
 
 1. *Find Element Using Linear Search* - Finds a Key element in an array using Linear search.
