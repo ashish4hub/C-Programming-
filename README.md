@@ -14,4 +14,6 @@
 
 ### Array
 
-1. *Linear Search in Array* - C program to Find a Key element in an array using Linear search.
+
+1. *sum* - C program to find the sum of all the elements in an Array
+2. *Linear Search in Array* - C program to Find a Key element in an array using Linear search.
