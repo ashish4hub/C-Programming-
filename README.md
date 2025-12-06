@@ -20,4 +20,7 @@
 3. *Maximum* - C program to find the maximum value element in an Array of Integers
 4. *Cout occurrence* - C program to find the number of times same element occurs in an Array 
 5. *Reverse* - C program to print the elements of an Array in reverse order by using another Array
-
+6. *Bubble Sort Binary Search* - This C program demonstrates the use and implementation of Bubble Sort and Binary Search together. The user can input an array with n elements in any order, and the program automatically rearranges the elements in ascending order using Bubble Sort, after sorting -
+       • Search for a Specific element(key) using binary search
+       • Determines how many time the given key element appears in the array
+     
