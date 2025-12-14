@@ -1,6 +1,6 @@
 # C-Programming-
 
- This repository contains C programs I have written while learning C programming. 
+*This repository documents my learning journey in C programming with a focus on building strong fundamentals for electronics and embedded systems.*
 
 ## Programs
 
