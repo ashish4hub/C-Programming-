@@ -5,7 +5,7 @@
 ## Programs
 
 ### Basic
-*This folder contains basic C programs written to understand core programming concepts such as input/output operations, conditional statements, loops, and basic string handling. These programs build the foundation required for problem solving and embedded system programming.*
+*This folder contains basic C programs written to understand core programming concepts such as input/output operations, conditional statements, loops, and basic string handling. These programs build the foundation required for problem solving.*
 
 ### Array
 *This folder contains C programs based on array operations, including traversal, searching, sorting, reversing, and frequency counting. These programs focus on logical problem solving and efficient data handling using arrays.*
