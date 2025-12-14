@@ -1,6 +1,8 @@
 # C - Programming 
 ## Array
 
+### Programs 
+
 1. *Linear Search in Array* - C program to Find a Key element in an array using Linear search.
 2. *sum* - C program to find the sum of all the elements in an Array
 3. *Maximum* - C program to find the maximum value element in an Array of Integers
