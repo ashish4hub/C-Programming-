@@ -12,6 +12,7 @@
 
 ### Pointer
 *This folder contains C programs demonstrating the use of pointers and double pointers, including memory access, call by reference, and pointer-based function operations.*
+### String
 
 
 
